@@ -1,4 +1,4 @@
-## Step 5
+## Step 4
 ```
 cat > etcd-cluster.yaml <<EOF
 apiVersion: etcd.database.coreos.com/v1beta2
